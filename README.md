@@ -90,7 +90,7 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 </p>
 
 <div align="center">
-<img width="800px" src="images_gifs/cubo.gif" />
+<img width="800px" src="projeto3d/images_gifs/cubo.gif" />
 
 **GIF** da janela do terminal onde temos nosso **Cubo 3D** sendo **distanciado** e **rotacionado**.
 </div>
@@ -188,7 +188,7 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 </p>
 
 <div align="center">
-<img width="800px" src="images_gifs/esfera.gif" />
+<img width="800px" src="projeto3d/images_gifs/esfera.gif" />
 
 **GIF** da janela do terminal onde temos nossa **Esfera 3D** sendo **aproximada** e **rotacionada**.
 </div>
