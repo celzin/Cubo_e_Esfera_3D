@@ -22,7 +22,7 @@
 
 <p align="justify">
 
-Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibilizado. Em seguida, descompacte o arquivo de <code>dependencias</code> dentro da pasta do projeto para que a pasta seja integrada ao restante do projeto, assim como mostra a **Figura 1**. Por fim, para **realizar a execução** da aplicação, abra o Visual Studio 2022 em modo **Administrador** e na escolher a janela de execução como mostrado na **Figura 2**.
+Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibilizado. Em seguida, descompacte o arquivo de <code>dependencias</code> dentro da pasta do projeto para que a pasta seja integrada ao restante do projeto, assim como mostra a **Figura 1**. Por fim, para **realizar a execução** da aplicação, abra o Visual Studio 2022 em modo **Administrador** e escolha a janela de execução como mostrado na **Figura 2**.
 
 </p>
 
