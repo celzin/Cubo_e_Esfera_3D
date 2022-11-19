@@ -50,7 +50,7 @@ As criações de câmera e suas rescpectivas movimentações responsivas ao mous
 
 <p align="justify">
 
-Aplicando os conhecimentos aprendidos em sala, preferí organizar o código criando a seguinte função <code>desenhaCubo</code> que como o próprio nome sugere vai tratar da criação da forma geométrica de um cubo em 3D.
+Aplicando os conhecimentos aprendidos em sala, como mostrado abaixo, preferí organizar o código criando a função <code>desenhaCubo</code> que como o próprio nome sugere vai tratar da criação da forma geométrica de um cubo em 3D, alocada dentro do arquivo <code>Primitivas.h</code>.
 
 </p>
 
@@ -120,7 +120,7 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 
 <p align="justify">
 
-Aplicando os conhecimentos aprendidos em sala, preferí organizar o código criando a seguinte função <code>desenhaEsfera</code> que como o próprio nome sugere vai tratar da criação da forma geométrica de uma esfera em 3D.
+Aplicando os conhecimentos aprendidos em sala, como mostrado abaixo, preferí organizar o código criando a função <code>desenhaEsfera</code> que como o próprio nome sugere vai tratar da criação da forma geométrica de uma esfera em 3D, alocada dentro do arquivo <code>Primitivas.h</code>.
 
 </p>
 
