@@ -17,7 +17,15 @@
    - Distanciar do objeto
    - Ir para direita
    - Ir para a esquerda
-   
+
+## Organização e Câmera
+
+<p align="justify">
+
+As criações de câmera e suas rescpectivas movimentações responsivas ao mouse e teclado foram replicadas de acordo com o exposto pelo professor em sala. Além disso, afim de tentar melhorar a organização do código, separei a "base de criação" das figuras geométricas primitivas (Cubo e Esfera) no arquivo <code>Primitivas.h</code>, que será exemplificado logo abaixo, conforme a figura aplicada.
+
+</p>
+
 ## Cubo em 3D
 
 <p align="justify">
