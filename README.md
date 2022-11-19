@@ -7,6 +7,17 @@
   <img align="center" alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
 </div><br/>
 
+## Proposta da Atividade
+1. Usando o OpenGL, gere a visualização das seguintes figura geométricas em 3D.
+   - Cubo
+   - Esfera
+2. Implemente um sistema de visualização da imagem 3D gera, onde seja possível usando o mouse, teclado ou ambos:
+   - Rotacionar a câmera entorno do objeto
+   - Aproximar do objeto
+   - Distanciar do objeto
+   - Ir para direita
+   - Ir para a esquerda
+
 ## Compilação e Execução
 
 <p align="justify">
@@ -27,18 +38,7 @@ Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibiliz
 **Figura 2**: Escolha da janela de execução do projeto.
 </div>
 
-## Proposta da Atividade
-1. Usando o OpenGL, gere a visualização das seguintes figura geométricas em 3D.
-   - Cubo
-   - Esfera
-2. Implemente um sistema de visualização da imagem 3D gera, onde seja possível usando o mouse, teclado ou ambos:
-   - Rotacionar a câmera entorno do objeto
-   - Aproximar do objeto
-   - Distanciar do objeto
-   - Ir para direita
-   - Ir para a esquerda
-
-## Organização e Câmera
+## Câmera e Organização 
 
 <p align="justify">
 
