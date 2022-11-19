@@ -21,7 +21,7 @@
 ## Cubo em 3D
 
 <div align="center">
-<img src="images_gifs/cubo_gif" width="800px"/>
+<img src="images_gifs/cubo-gif" width="800px"/>
 
 **Figura 1:** Visão da janela do terminal onde temos nosso **triângulo base**.
 </div>
