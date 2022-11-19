@@ -18,13 +18,13 @@ Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibiliz
 <div align="center">
 <img width="800px" src="https://user-images.githubusercontent.com/84411392/202831001-08462e49-1ad7-4418-8f9b-35ecd2e6ce7e.png" />
 
-**Figura 1**: 
+**Figura 1**: Descompactação e integração das dependências ao projeto.
 </div>
 
 <div align="center">
 <img width="800px" src="https://user-images.githubusercontent.com/84411392/202830694-55c946db-367d-4ba4-8e0e-3064c10325fe.png" />
 
-**Figura 2**: 
+**Figura 2**: Escolha da janela de execução do projeto.
 </div>
 
 ## Proposta da Atividade
