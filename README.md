@@ -7,6 +7,26 @@
   <img align="center" alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
 </div><br/>
 
+## Compilação e Execução
+
+<p align="justify">
+
+Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibilizado. Em seguida, descompacte o arquivo de <code>dependencias</code> dentro da pasta do projeto para que a pasta seja integrada ao restante do projeto, assim como mostra a **Figura 1**. Por fim, para **realizar a execução** da aplicação, abra o Visual Studio 2022 em modo **Administrador** e na escolher a janela de execução como mostrado na **Figura 2**.
+
+</p>
+
+<div align="center">
+<img width="800px" src="https://user-images.githubusercontent.com/84411392/202831001-08462e49-1ad7-4418-8f9b-35ecd2e6ce7e.png" />
+
+**Figura 1**: 
+</div>
+
+<div align="center">
+<img width="800px" src="https://user-images.githubusercontent.com/84411392/202830694-55c946db-367d-4ba4-8e0e-3064c10325fe.png" />
+
+**Figura 2**: 
+</div>
+
 ## Proposta da Atividade
 1. Usando o OpenGL, gere a visualização das seguintes figura geométricas em 3D.
    - Cubo
