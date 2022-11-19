@@ -64,6 +64,17 @@ void desenhaCubo(GLuint id, float s)
 	glEndList();
 }
 ```
+
+<p align="justify">
+
+Já na <code>main.cpp</code> para desenhar a esfera, precisamos passar os seguintes parâmetros nas funções <code>desenha</code> e <code>init(GLFWwindow* window)</code>, conforme o declarado, anteriormente, na função <code>desenhaCubo</code> do arquivo <code>Primitivas.h</code>.
+
+</p>
+
+<div align="center">
+<img width="800px" src="https://user-images.githubusercontent.com/84411392/202829072-b3481d01-c6d1-45b5-be2d-eaf2033d15a6.png" />
+</div>
+
 <p align="justify">
 
 Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criação do Cubo em 3D.
@@ -151,6 +162,16 @@ void desenhaEsfera(unsigned int& id, color cor, GLfloat raio, GLuint nStacks, GL
 	glEndList();
 }
 ```
+
+<p align="justify">
+
+Já na <code>main.cpp</code> para desenhar a esfera, precisamos passar os seguintes parâmetros nas funções <code>desenha</code> e <code>init(GLFWwindow* window)</code>, conforme o declarado, anteriormente, na função <code>desenhaEsfera</code> do arquivo <code>Primitivas.h</code>.
+
+</p>
+
+<div align="center">
+<img width="800px" src="https://user-images.githubusercontent.com/84411392/202828827-488302ae-3ca3-4e03-afee-8766f0f260c3.png" />
+</div>
 
 <p align="justify">
 
