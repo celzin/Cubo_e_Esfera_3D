@@ -23,8 +23,14 @@
 <div align="center">
 <img width="800px" src="images_gifs/cubo.gif" />
 
-**Figura 1:** Visão da janela do terminal onde temos nosso **triângulo base**.
+**GIF** da janela do terminal onde temos nosso **Cubo 3D** sendo **distanciado** e **rotacionado**.
 </div>
 
 
 ## Esfera em 3D
+
+<div align="center">
+<img width="800px" src="images_gifs/esfera.gif" />
+
+**GIF** da janela do terminal onde temos nossa **Esfera 3D** sendo **aproximada** e **rotacionada**.
+</div>
