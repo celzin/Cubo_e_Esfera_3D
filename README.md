@@ -22,7 +22,7 @@
 
 <p align="justify">
 
-Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibilizado. Em seguida, descompacte o arquivo de <code>dependencias</code> dentro da pasta do projeto para que a pasta seja integrada ao restante do projeto, assim como mostra a **Figura 1**. Por fim, para **realizar a execução** da aplicação, abra o Visual Studio 2022 em modo **Administrador** e escolha a janela de execução como mostrado na **Figura 2**.
+Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibilizado. Em seguida, descompacte o arquivo de <code>dependencias</code> dentro da pasta do projeto para que a pasta seja integrada ao restante do projeto, assim como mostra a **Figura 1**. Por fim, para **realizar a execução** da aplicação, abra o Visual Studio 2022 em modo **administrador** e escolha a janela de execução como mostrado na **Figura 2**.
 
 </p>
 
@@ -112,7 +112,7 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 <div align="center">
 <img width="800px" src="projeto3d/images_gifs/cubo.gif" />
 
-**GIF** da janela do terminal onde temos nosso **Cubo 3D** sendo **distanciado** e **rotacionado**.
+**GIF** da janela do terminal onde temos nosso **Cubo 3D** sendo **DISTANCIADO** e **ROTACIONADO**.
 </div>
 
 
@@ -210,5 +210,5 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 <div align="center">
 <img width="800px" src="projeto3d/images_gifs/esfera.gif" />
 
-**GIF** da janela do terminal onde temos nossa **Esfera 3D** sendo **aproximada** e **rotacionada**.
+**GIF** da janela do terminal onde temos nossa **Esfera 3D** sendo **APROXIMADA** e **ROTACIONADA**.
 </div>
